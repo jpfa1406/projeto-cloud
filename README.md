@@ -18,6 +18,10 @@ AWS Access Key ID [None]: {ACCESS_KEY}
 AWS Secret Access Key [None]: {SECRET_ACCESS_KEY}
 ```
 ## Uso
+Na primeira vez de uso. Usar comando:
+```
+terraform innit
+```
 Para iniciar o programa use o comando:
 ```
 python3 controle.py
