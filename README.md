@@ -20,7 +20,7 @@ AWS Secret Access Key [None]: {SECRET_ACCESS_KEY}
 ## Uso
 Na primeira vez de uso. Usar comando:
 ```
-terraform innit
+terraform init
 ```
 Para iniciar o programa use o comando:
 ```
